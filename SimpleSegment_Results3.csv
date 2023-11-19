@@ -1,0 +1,7 @@
+,Success or Failure,Cost,K,list of CSVs,"Time Trim (start, end)",Length Trim,headingAngleMode,xFromCentreMode,kV Ones,straightsMode, sillySegmenting
+0,True,442.4733051748378,"[-2.47373317e-02  6.72213735e-03 -8.69517473e-01  1.53822680e-01
+ -3.45809163e+00  1.41916913e-01  4.59441533e+01  1.88767585e+00
+ -1.59482596e-02  1.03258103e-03 -4.82086130e-02 -1.79002047e-03]",[17],"[4.7, 55]",0.3,False,True,False,True,False
+1,True,98415.65337338163,"[ 4.82276085e-04  5.74912527e-03  1.10088344e-02 -3.68132218e-02
+ -5.62459616e+00 -1.45609321e-02  7.66731253e-01 -5.11710622e+00
+ -1.35294657e-03  2.61805153e-04  1.44620856e-04 -3.55224647e-03]",[17],"[4.7, 55]",0.3,False,True,False,True,False
